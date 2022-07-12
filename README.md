@@ -1,4 +1,4 @@
-# orecasting-the-Gross-Value-Added-of-Belgium
+# Forecasting-the-Gross-Value-Added-of-Belgium
 
 Gretl
 
